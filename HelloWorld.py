@@ -1,1 +1,2 @@
-print("a")
+print("hello")
+print("hello2")
